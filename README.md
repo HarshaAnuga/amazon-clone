@@ -1,0 +1,1 @@
+This project is a simple clone of the Amazon website, built using HTML and CSS. It showcases fundamental web design techniques and provides a basic layout similar to the popular e-commerce platform. This clone is intended for educational purposes and to demonstrate proficiency in front-end web development.
